@@ -108,5 +108,4 @@ This tool is useful for:
 ### Steps to Run
 1. **Clone the Repository**
 
-   git clone https://github.com/<your-username>/Speech-to-Text-Converter.git
-   cd Speech-to-Text-Converter
+   git clone https://github.com/gouri1417/Speech-To-Text-Converter.git
