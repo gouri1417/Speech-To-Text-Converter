@@ -1,6 +1,6 @@
 # Speech-to-Text-Converter
 
-![Speech to Text Screenshot](assets/speech-to-text.png)
+![Speech to Text Screenshot]("C:\Users\gouri\OneDrive\Pictures\Screenshots\Screenshot 2025-08-15 120022.png".png)
 
 ## How the Project Works
 
