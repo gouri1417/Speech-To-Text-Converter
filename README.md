@@ -1,5 +1,8 @@
 # Speech-to-Text-Converter
 
+###Screenshot
+<img width="1023" height="594" alt="image" src="https://github.com/user-attachments/assets/bccdbd18-84c0-42b5-a2b0-be582c77b678" />
+
 ## How the Project Works
 
 ### Objective
